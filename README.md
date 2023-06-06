@@ -1,6 +1,6 @@
 # Distributed Online Planning for Min-Max Problems in Networked Markov Games
 
-This repository contains the developed code for the paper submitted to NeurIPS 2023
+This repository contains the developed code for the final project of the class "EE364B: Convex Optimization II", taught at Stanford University in the Spring 2023 quarter.
 
 ## Overview of Proposed Method
 ![](https://github.com/alextzik/distr_online_maxmin_markov_game/blob/main/GIFs/OverviewProposedMethod.png)
